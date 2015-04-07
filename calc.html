@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<script>
+
+function testDv (form) {
+    var isp2 = form.isp.value*9.82;
+    var fullmass2 = form.fullmass.value;
+    var drymass2 = form.drymass.value;
+    var logmass2 = Math.log(fullmass2/drymass2)
+    var dV2 = Math.floor(isp2*logmass2)
+    window.alert(dV2 + " meters/second")
+}
+</script>
+
+<FORM NAME="myform" ACTION="" METHOD="GET">
+Enter Isp, full mass, and dry mass. <BR>
+isp <INPUT TYPE="number" NAME="isp" VALUE=""> <br>
+full mass <INPUT TYPE="number" NAME="fullmass" VALUE=""> <br>
+dry mass  <INPUT TYPE="number" NAME="drymass" VALUE=""><P>
+<INPUT TYPE="button" NAME="button" Value="Calculate Δv" onClick="testDv(this.form)">
+</FORM>
+
+</body>
+
+</html>
