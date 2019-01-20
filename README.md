@@ -1,11 +1,8 @@
 # Dv-Calc
-This is the first thing I've ever coded. It's written in HTML and Javascript.
+HTML and Javascript-based calculator for potential velocity
+Intended for use in Kerbal Space Program
+Applies Tsiolkovsky's Rocket Equation
 
 For a demo, visit js.do/shaky/shakydv
 Or download the calc.html.
 
-
-
-
-
-p̮̤̲̙̩̟͚ͧͮ̇͆ͪͭ̊͢h̩̖̬̱̺̦͕̟̉̃͐͆͑́͑͝'̺̪̹͙͚̩̾̌ͯͬͦ̓̆n̙̫͇̫͎̺̟̯̫̖̝̻̍ͨ͐ͥ͊ͪ̚͘͜͜ͅ ̛̥̘̐ͭ͗f̢̦̠̎͞h̲̖͊ͬͧͯ̇͊ͩ̏̋ṫ̸̫̝̣͚̮̆̋ͥ͘ā̡̧̀̃̒̂͏̼̭̲͖̹̗g̸̝̙̬ͭͩ́͠ņ̸͚͎̻͍̌͋
